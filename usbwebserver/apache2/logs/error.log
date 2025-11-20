@@ -1,0 +1,7 @@
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/Users/christian-david.rodr/Downloads/ActividadNodeJS/usbwebserver\\php\\ext\\php_curl.dll' - %1 no es una aplicaci\xef\xbf\xbdn Win32 v\xef\xbf\xbdlida.\r\n in Unknown on line 0
+[Mon Nov 17 09:10:02.616173 2025] [mpm_winnt:notice] [pid 39192:tid 892] AH00455: Apache/2.4.29 (Win32) PHP/7.1.11 configured -- resuming normal operations
+[Mon Nov 17 09:10:02.618173 2025] [mpm_winnt:notice] [pid 39192:tid 892] AH00456: Server built: Nov  3 2017 01:01:54
+[Mon Nov 17 09:10:02.618173 2025] [core:notice] [pid 39192:tid 892] AH00094: Command line: 'C:\\Users\\christian-david.rodr\\Downloads\\ActividadNodeJS\\usbwebserver/apache2/bin/httpd_usbwv8.exe -d C:/Users/christian-david.rodr/Downloads/ActividadNodeJS/usbwebserver/apache2'
+[Mon Nov 17 09:10:02.755065 2025] [mpm_winnt:notice] [pid 39192:tid 892] AH00418: Parent: Created child process 33852
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/Users/christian-david.rodr/Downloads/ActividadNodeJS/usbwebserver\\php\\ext\\php_curl.dll' - %1 no es una aplicaci\xef\xbf\xbdn Win32 v\xef\xbf\xbdlida.\r\n in Unknown on line 0
+[Mon Nov 17 09:10:17.902474 2025] [mpm_winnt:notice] [pid 33852:tid 856] AH00354: Child: Starting 64 worker threads.

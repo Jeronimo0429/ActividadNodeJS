@@ -1,0 +1,14 @@
+POST http://localhost:3000/llegadas
+Content-Type: application/json
+
+{
+  "nombre": "Juan Pérez",
+  "identificacion": "10203040",
+  "edad": 12,
+  "grado": "6A",
+  "acudiente": "María Pérez",
+  "numero_acudiente": "3001234567",
+  "fecha": "2025-11-17",
+  "hora": "07:15:00",
+  "excusa": false
+}

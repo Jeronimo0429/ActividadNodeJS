@@ -1,0 +1,30 @@
+{
+	"info": {
+		"_postman_id": "fc391ec7-cf69-4e4b-9981-d3840f871455",
+		"name": "API Llegadas",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "47196853",
+		"_collection_link": "https://chrisdarogo-1430354.postman.co/workspace/Christian-Rodriguez's-Workspace~b113d2e1-de22-4696-82ce-d2b596f33efc/collection/47196853-fc391ec7-cf69-4e4b-9981-d3840f871455?action=share&source=collection_link&creator=47196853"
+	},
+	"item": [
+		{
+			"name": "GET - Recuperar todas las llegadas",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3000/llegadas",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"llegadas"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

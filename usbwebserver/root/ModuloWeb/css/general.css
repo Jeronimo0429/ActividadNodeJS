@@ -1,0 +1,27 @@
+.tabla-informacion {
+    border-collapse: collapse;
+    font-family: verdana;
+}
+
+.tabla-informacion thead {
+    background: #1A1E24;
+    color: #fff;
+}
+
+.tabla-informacion thead th {
+    width: 20%;
+}
+
+.tabla-informacion tbody td {
+    text-align: center;
+    height: 30px;
+    width: 20%;
+}
+
+.tabla-informacion tbody tr:nth-child(6) td:nth-child(2) {
+    background: #e84393
+}
+
+.tabla-informacion tbody tr:hover {
+    background: #e84393
+}

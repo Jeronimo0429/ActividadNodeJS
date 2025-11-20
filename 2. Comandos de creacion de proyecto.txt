@@ -1,0 +1,10 @@
+Prerequisito debo tener instalado NODE JS, en este caso instale Node.js v22.16.0
+
+Creo la carpeta del proyecto: mkdir api-llegadas
+Ingreso al proyecto: cd api-llegadas
+Inicializo los comandos de node para crear el archivo package.json para manejar las librerias: npm init -y
+Instalo librerias necesarios: npm install express mysql2 cors
+
+
+Luego para correr el proyecto lo hago con: npm start
+Eso levanta el API y ya queda lista para peticionar
